@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @alishchenko
 - 👀 I’m interested in programming (obviously) 🖥, handmading 🧶, volunteering 👶
-- 🌱 I’m currently learning Python
 - 👩‍💻 I'am coding C/C++. Also I know Java, Python
 - 📫 How to reach me:
   Telegram @Anastasiia_Lishchenko
