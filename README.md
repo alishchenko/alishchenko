@@ -7,10 +7,10 @@
 
 
 Languages that I know:
-🇺🇦 Ukrainian - C2 (native speaker)
-🇷🇺 Russian - C2
-🇺🇸 English - B2
-🇵🇱 Polish - A2
+- 🇺🇦 Ukrainian - C2 (native speaker)
+- 🇷🇺 Russian - C2
+- 🇺🇸 English - B2
+- 🇵🇱 Polish - A2
 
 
 
