@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alishchenko
 - 👀 I’m interested in programming (obviously) 🖥, handmading 🧶, volunteering 👶
-- 👩‍💻 I'am coding C/C++. Also I know Java, a little bit Python, HTML, CSS, JS
+- 👩‍💻 I'am coding GoLang. Also I know JS/TS, C/C++, HTML, CSS,
 - 📫 How to reach me: Telegram @Anastasiia_Lishchenko ; Instagram @man.go_
 
 
